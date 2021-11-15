@@ -1,0 +1,27 @@
+/*our CSS file. */
+img{
+    border-radius:10px;
+    border-style: inset;
+  }
+  
+.header-section{
+    display: inline-block;
+    font-size: 5vh; 
+    width: 40%;
+}
+#serach, #website{
+    text-align:center;
+    font-weight: bolder;
+    padding:21px;
+}
+#table{
+    border-radius:10px;
+    background-color:#6644;
+    margin:auto;
+    margin-top:10px;
+}
+  
+td{
+    font-size: 5vh;
+    padding: 5px;
+}
